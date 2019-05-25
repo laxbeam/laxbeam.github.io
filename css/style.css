@@ -14,10 +14,10 @@ a:visited {
 
 /* mouse over link */  
 a:hover {
-    color: #ffa300;
+    color: #ffb000;
 }
 
 /* selected link */
 a:active {
-    color: #ff7300;
+    color: #ff6000;
 }
