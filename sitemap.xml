@@ -3,22 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://unspecifiedgames.com/</loc>
+    <loc>https://unspecifiedgames.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://unspecifiedgames.com/under_contruction/</loc>
+    <loc>https://unspecifiedgames.com/under_contruction/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://unspecifiedgames.com/categories/</loc>
+    <loc>https://unspecifiedgames.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://unspecifiedgames.com/tags/</loc>
+    <loc>https://unspecifiedgames.com/tags/</loc>
     <priority>0</priority>
   </url>
   
