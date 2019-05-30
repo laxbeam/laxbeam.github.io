@@ -1,6 +1,6 @@
 {
-    "name": "Unspecified Games",
-    "short_name": "Unspecified Games",
+    "name": "Laxbeam",
+    "short_name": "Laxbeam",
     "icons": [
         {
             "src": "/assets/icon/android-chrome-192x192.png",
@@ -13,7 +13,8 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ff9300",
-    "background_color": "#000000",
+    "theme_color": "#303030",
+    "background_color": "#303030",
+    "start_url": "https://laxbeam.com",
     "display": "standalone"
 }
