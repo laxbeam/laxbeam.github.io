@@ -3,22 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://laxbeam.com/</loc>
+    <loc>https://laxbeam.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://laxbeam.com/under_contruction/</loc>
+    <loc>https://laxbeam.com/under_contruction/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://laxbeam.com/categories/</loc>
+    <loc>https://laxbeam.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://laxbeam.com/tags/</loc>
+    <loc>https://laxbeam.com/tags/</loc>
     <priority>0</priority>
   </url>
   
