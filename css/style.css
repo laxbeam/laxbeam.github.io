@@ -5,6 +5,12 @@ body {
     color: white;
 }
 
+#wrapper {
+	min-width: 50%;
+	max-width: 93%;
+	width: 18cm;
+	margin: 0 auto;
+}
 
 /* unvisited link */
 a:link,
